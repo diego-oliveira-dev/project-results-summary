@@ -147,7 +147,7 @@ div.score > strong {
     section#card {
         display: flex;
         width: 550px;
-        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.148);
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.148);
         border-radius: 20px;
     }
 
